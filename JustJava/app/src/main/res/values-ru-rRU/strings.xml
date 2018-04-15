@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="Chocolate">Шоколад</string>
+    <string name="minus_button">-</string>
+    <string name="name">Имя: </string>
+    <string name="order_button">Заказать</string>
+    <string name="order_summary">В итоге</string>
+    <string name="plus_button">+</string>
+    <string name="Quantity">Количество</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="toppings">Топпинги</string>
+    <string name="Whipped_cream">Взбитые сливки</string>
+    <string name="customer">покупатель</string>
+    <string name="name_hint">Тут напишем свое имя...</string>
+    <string name="email_ref">Кофей от Just Java, </string>
+    <string name="too_few_coffees_toast">Бери больше!</string>
+    <string name="too_many_coffees_toast">Да куда столько-то!</string>
+    <string name="add_whipped_cream">Сливочек?</string>
+    <string name="add_chocolate">Шоколада?</string>
+    <string name="yas">Ну да!</string>
+    <string name="noooo">Ну нет!</string>
+    <string name="total">Всего</string>
+</resources>

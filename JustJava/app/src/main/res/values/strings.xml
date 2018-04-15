@@ -1,0 +1,28 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--xml strings -->
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="Whipped_cream">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_button">Order</string>
+
+    <!--MainActivity.java strings -->
+    <string name="thank_you">Thank you!</string>
+    <string name="name">Name: </string>
+    <string name="customer">Customer</string>
+    <string name="name_hint">Your name here…</string>
+    <string name="email_ref">Just Java for </string>
+    <string name="too_few_coffees_toast">That\'s one too few, mate!</string>
+    <string name="too_many_coffees_toast">Stop right there!</string>
+    <string name="add_whipped_cream">Add whipped cream? </string>
+    <string name="add_chocolate">Add chocolate? </string>
+    <string name="yas">Yas!</string>
+    <string name="noooo">Nooo!</string>
+    <string name="total">Total</string>
+
+</resources>
